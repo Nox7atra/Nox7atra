@@ -1,5 +1,6 @@
 ### Hi there 👋
-![](https://github.com/Nox7atra/github-stats/blob/master/generated/overview.svg)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nox7atra)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Nox7atra/Nox7atra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
