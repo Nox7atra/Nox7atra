@@ -1,6 +1,6 @@
 Всем привет!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nox7atra&show_icons=true&theme=synthwave&hide=stars,commits)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nox7atra&show_icons=true&theme=synthwave&hide=prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nox7atra&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 Технический продюсер. Собираю команды под проекты, разрабатываю решения под ключ для разных компаний. Занимаюсь подбором оптимальной команды под конкретную задачу и осуществляю дальнейший контроль процесса производства решения. Техническая экспертиза, работа с бекендом и фронтендом, клиентскими разработчиками, DevOps, бизнес аналитиками и т.п. Ведение производства контента (арт, 3д модели, озвучка и т.п.) Работа с артдиректорами, художниками, графическими дизайнерами, UI/UX дизайнерами, риггерами, 3д моделлерами и т.п. Консультирую на тему технологий дополненной и виртуальной реальности, трекинга, компьютерной графики и т.п.
